@@ -1,0 +1,12 @@
+{
+	"project_name": "my_project",
+	"project_slug": "happy_{{ cookiecutter.project_name|lower|replace(' ', '_')|replace('-', '_')|replace('.', '') }}",
+	"github_url": "https://github.com/mndarren/{{ cookiecutter.project_name }}.git",
+	"project_version": "0.0.1",
+	"project_description": "This is my GitHub Python project!",
+	"python_version": ["3.6"],
+	"author_name": "Darren Zhao Xie",
+	"author_email": "mndarren@gmail.com",
+	"license": ["None", "MIT"]
+}
+
