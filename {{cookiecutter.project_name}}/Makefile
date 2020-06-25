@@ -37,7 +37,7 @@ test: lint
 	py.test --cov . tests/
 
 venv :
-	virtualenv --python python3.6 venv
+	virtualenv --python python3.8 venv
 
 install:
 	pip install -r requirements.txt

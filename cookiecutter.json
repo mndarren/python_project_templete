@@ -4,7 +4,7 @@
 	"bitbucket_url": "https://github.com/mndarren/{{ cookiecutter.project_name }}.git",
 	"project_version": "0.0.1",
 	"project_description": "This is my GitHub Python project!",
-	"python_version": ["3.6"],
+	"python_version": ["3.8"],
 	"author_name": "Darren Zhao Xie",
 	"author_email": "mndarren@gmail.com",
 	"license": ["None", "MIT"]
